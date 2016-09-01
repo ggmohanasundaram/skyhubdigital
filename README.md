@@ -20,7 +20,7 @@ Test 2 - Movie Recommendation test-
   Note : 
       The Recommendation logic has been built based on Binary search algorithm.
       
-    MovieRecommender.java  (skyhubdigital/src/main/java/org/skyhubdigital/com/recommendation) - The logic has been built in this calls
+    MovieRecommender.java  (skyhubdigital/src/main/java/org/skyhubdigital/com/recommendation) - Binary search logic has been build in this class.
     MovieRecommenderTest.java (skyhubdigital/src/test/java/org/skyhubdigital/com/recommendation) - It is unit test class used to provide various inputs to test the logic.
     
     
@@ -33,7 +33,7 @@ Test 2 - Movie Recommendation test-
   Note : 
       Decorator pattern has been used to calculate Import and Sales Tax.
       
-    ShoppingApplication.java  (skyhubdigital/src/main/java/org/skyhubdigital/com/salestax/) - This class has been used a sample orchestration file to execute the workflow like add products to cart and invole printbill.
+    ShoppingApplication.java  (skyhubdigital/src/main/java/org/skyhubdigital/com/salestax/) - This class has been used as a sample orchestration file to execute the workflow like add products to cart and invoke printbill.
     ShoppingApplicationTest.java (skyhubdigital/src/test/java/org/skyhubdigital/com/salestax/) - It is unit test class used to provide various inputs to test the code.
     
     
